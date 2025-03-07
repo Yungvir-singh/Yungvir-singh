@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Yungvir-singh
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning EDA and how to make machine learning models
