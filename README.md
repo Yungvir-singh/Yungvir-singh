@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @Yungvir-singh
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning EDA and how to make machine learning models
+👋 Hi, I'm Yungvir Singh!
+🎓 Machine Learning Analyst Student at NorQuest College
+💡 Passionate about data analysis, machine learning, and automation
+💻 Skilled in Python, SQL, Pandas, NumPy, Scikit-learn, and data visualization
+📊 Love solving real-world problems with data-driven insights
+🚀 Always learning and working on exciting projects!
